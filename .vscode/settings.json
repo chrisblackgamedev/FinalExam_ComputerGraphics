@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "FinalExam-ComputerGraphics.slnx"
+    "dotnet.defaultSolution": "FinalExam_ComputerGraphics.slnx"
 }
