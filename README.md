@@ -4,7 +4,7 @@ The shaders I've used are as follows:
 
 Hologram Shader: Used on my Pac-Man Character, ghosts and wall objects to give a distinct glow to the objects. While the original hologram shader we went over was higly transparent, I modified the settings of mine to give a brighter, more full glow which gives good highlights to the various objects it's used on. This was changed by directly editing the values of the power and fade nodes.
 
-!(https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/mrman.png)
+https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/mrman.png
 
 
 Scrolling texture shader: Used on my background plane. This shader adds a discrete but aesthetically pleasing background whereas the original was plain black. For this I created my own texture for the background scroll, and edited the values in the code to give a slower, crawling pace for the scroll. 
