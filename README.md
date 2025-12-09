@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/m
 
 Scrolling texture shader: Used on my background plane. This shader adds a discrete but aesthetically pleasing background whereas the original was plain black. For this I created my own texture for the background scroll, and edited the values in the code to give a slower, crawling pace for the scroll. 
 
-https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/ScrollingBG.png
+https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/scrollingBG.png
 
 
 Specular Lighting model: From the first half of the course, the specular lighting model provides a different look for my spherical coins, adding to the 3D enhancement of the game. For this I utilized a bright base color and modified some of the code to enhance the bridghtness of the provided lighting.
