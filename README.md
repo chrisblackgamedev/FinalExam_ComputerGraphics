@@ -15,7 +15,7 @@ Specular Lighting model: From the first half of the course, the specular lightin
 https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/specular.png
 
 
-Color Correction Shader: Lastly, I utilized color correction on my larger sphere coins to achieve the pink effect seen in game. This provides a distinct look from the regular coins while maintaining the visibility of the object. This was different from what we did in class as I created custom textures for use in the correction, as well as only implementing it on a single object, rather than over the camera, thus adding a filter to the object, not the entire scene.
+Color Correction Shader: Lastly, I utilized color correction on my larger sphere coins to achieve the pink effect seen in game. This provides a distinct look from the regular coins while maintaining the visibility of the object. This was different from what we did in class as I created custom textures for use in the correction, as well as only implementing it on a single object, rather than over the camera, thus adding a filter to the object, not the entire scene. ////!!!! This shader worked in the unity project but doesnt appear in my build. Based on the shader graph I used I predict it either came from issues with how the shader was layered over the object or it was an issue with the Plane not being viewable by the camera after switching to the full screen view of the build.
 
 https://raw.githubusercontent.com/chrisblackgamedev/FinalExam_ComputerGraphics/main/Screenshots/colorCorrection.png
 
